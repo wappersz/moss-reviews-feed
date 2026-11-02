@@ -2,11 +2,35 @@
  "business": {
   "name": "Moss Electrical",
   "average_rating": 4.800000190734863,
-  "total_review_count": 44,
+  "total_review_count": 47,
   "place_id": "ChIJoxWI9xttbkgRjxqW2eURFFo",
   "review_url": "https://search.google.com/local/writereview?placeid=ChIJoxWI9xttbkgRjxqW2eURFFo"
  },
  "reviews": [
+  {
+   "author": "Liam Bush",
+   "author_photo": "https://lh3.googleusercontent.com/a/ACg8ocIBd4bHLMlhsgCNiesz7lazf8QJVWRAYOdVBMCiniZqZ7jzNA=s120-c-rp-mo-br100",
+   "stars": 5,
+   "text": "Great company, been using moss for years. Customer service always top notice",
+   "date_iso": "2026-10-30T15:01:56.691554Z",
+   "reply": "Thank you! "
+  },
+  {
+   "author": "Daniele Casiero-Malpas",
+   "author_photo": "https://lh3.googleusercontent.com/a/ACg8ocInkgc_HY0TgUQyI1_JKS8aRYriCySiSwEHwpnWUuovyHELdQ=s120-c-rp-mo-br100",
+   "stars": 5,
+   "text": "Great service",
+   "date_iso": "2026-10-30T15:01:50.133509Z",
+   "reply": "Thank you! "
+  },
+  {
+   "author": "Jack Mccarthyv",
+   "author_photo": "https://lh3.googleusercontent.com/a/ACg8ocIERjDuKsGzj3YmXQkEvZwrB9HMYrjcultESjqd7dWbptilEA=s120-c-rp-mo-br100",
+   "stars": 5,
+   "text": "Great wholesalers. Great service always handy and always have what I need. Would recommend using.",
+   "date_iso": "2026-10-30T14:35:55.752939Z",
+   "reply": "Thank you for your kind review! "
+  },
   {
    "author": "Joseph Salmon",
    "author_photo": "https://lh3.googleusercontent.com/a-/ALV-UjWUrR9REJo7IqPErZCyFpylpA_EgUBg-ucN7mTEhCiRuQ6dhmM=s120-c-rp-mo-br100",
@@ -360,5 +384,5 @@
    "reply": null
   }
  ],
- "updated": "2026-10-23T15:57:10+00:00"
+ "updated": "2026-11-02T08:47:41+00:00"
 }
